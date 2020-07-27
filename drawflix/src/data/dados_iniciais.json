@@ -1,183 +1,182 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#dc1a28",
+      "titulo": "Illustrator",
+      "link": "https://www.youtube.com/watch?v=mHMhNhkUMAM&list=PLfY4aYg9e-lPL_2UbJ6DYyhyofKq-kPLI",
+      "cor": "#B805E5",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Aprendendo Adobe Illustrator",
+        "url": "https://www.youtube.com/watch?v=mHMhNhkUMAM&list=PLfY4aYg9e-lPL_2UbJ6DYyhyofKq-kPLI"
       },
       "videos": [
         {
-          "titulo": "Bla",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "COMO DESENHAR COM O MOUSE (Adobe Illustrator)",
+          "url": "https://www.youtube.com/watch?v=wEYiPk58KfE&list=PLYnJaupNs4gyYRcpLeWgz9lyfVJTWAiZr&index=2&t=0s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Como COMEÇAR no Illustrator | Tutorial Illustrator",
+          "url": "https://www.youtube.com/watch?v=E90Beu2YpSI"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "tutorial // ilustração completa no adobe illustrator",
+          "url": "https://www.youtube.com/watch?v=ywkytGkMtg0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "LUZ E SOMBRA (Adobe Illustrator)",
+          "url": "https://www.youtube.com/watch?v=broXze0AePQ&t=410s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Character Illustration #03 - Design Workflow in Illustrator (Tutorial)",
+          "url": "https://www.youtube.com/watch?v=8WQH5ksCpwc&t=57s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Learn How to Draw Character in Adobe Illustrator PART 1",
+          "url": "https://www.youtube.com/watch?v=W2DHodAEZ0A"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "10 Tips: Illustrating in Adobe Illustrator",
+          "url": "https://www.youtube.com/watch?v=2ycw20MaugA"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Como criar um LOGO com a PROPORÇÃO ÁUREA no Illustrator",
+          "url": "https://www.youtube.com/watch?v=9WvPUMnWDzQ"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#dc1a28",
+      "titulo": "Photoshop",
+      "cor": "#B805E5",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Aprendendo Adobe Photoshop",
+        "url": "https://www.youtube.com/watch?v=Zj24cPp-AsY&list=PLfY4aYg9e-lPzQIXC_v0kb9X0YDaflYtl"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "COMO DESENHAR NO ADOBE PHOTOSHOP",
+          "url": "https://www.youtube.com/watch?v=whj6Jt2vVC4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "ILLUSTRATION PROCESS using Adobe Photoshop | How I make my art",
+          "url": "https://www.youtube.com/watch?v=XYoO_u8JNCQ"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Learn to Paint in 5 minutes | Digital Painting Photoshop Tutorial Beginner",
+          "url": "https://www.youtube.com/watch?v=KhP3RnAa82w"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Illustration & Digital Painting Tutorial in Photoshop with Jenny Yu (1/3) | Adobe Creative Cloud",
+          "url": "https://www.youtube.com/watch?v=NN5ZiYumR0I"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Dan's illustration tutorial #01 Grain and noise texture",
+          "url": "https://www.youtube.com/watch?v=6dBiul5SnGU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#dc1a28",
+      "titulo": "Speed Drawing - Vectors",
+      "cor": "#B805E5",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Maravilhe-se com Speed Drawings",
+        "url": "https://www.youtube.com/channel/UCCkdaPWbBFUh8W9P9oNFGqw"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Girl game character - Speed Art Drawing vector illustration",
+          "url": "https://www.youtube.com/watch?v=hfqCRHOD1DU"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Similar to Frankenstein character - Speed Art Drawing vector illustration",
+          "url": "https://www.youtube.com/watch?v=gXbk42YpnF4"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Woman with blasters - Speed Art Drawing vector illustration",
+          "url": "https://www.youtube.com/watch?v=ICDsG-cg4v4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Speed Art Drawing vector illustration - Totem",
+          "url": "https://www.youtube.com/watch?v=H3QKHcgTb3U"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "#dc1a28",
+      "titulo": "Ilustração",
+      "cor": "#B805E5",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "How To: Introduction to Illustration with Alison Woodward",
+          "url": "https://www.youtube.com/watch?v=m3oUFXq6Msc"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Digital illustration tutorial | Step by step guide on how I do it",
+          "url": "https://www.youtube.com/watch?v=WbmsLalUBOQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Intro to Procreate :: Learning to Draw on the iPad",
+          "url": "https://www.youtube.com/watch?v=EI-ToB0tG9A"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "https://www.youtube.com/watch?v=nPRehny3Ee4",
+          "url": "https://www.youtube.com/watch?v=nPRehny3Ee4"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "#dc1a28",
+      "titulo": "Sketchbook Tour",
+      "cor": "#B805E5",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Scketchbooks",
+        "url": "https://www.youtube.com/results?search_query=sketchbook+tour"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Sketchbook Tour + Tips on Supplies! | 2019 - 2020",
+          "url": "https://www.youtube.com/watch?v=5Us1ShES_xY"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Sketchbook Tour!",
+          "url": "https://www.youtube.com/watch?v=hJahitDB1Vs&t=100s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Sketchbook Tour #15 + decorating my new one!",
+          "url": "https://www.youtube.com/watch?v=sp0C2PyjD7M"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "My Sketchbook Tour",
+          "url": "https://www.youtube.com/watch?v=6nY4Vk-lYzc"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "INKTOBER SKETCHBOOK TOUR 2018",
+          "url": "https://www.youtube.com/watch?v=z3XZ9yhpoPQ&t=204s"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#dc1a28",
+      "titulo": "IlustradorAs",
+      "cor": "#B805E5",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Meninas desenham"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "LET'S TRY: COOL COLOR THEORY WITH MARKERS!",
+          "url": "https://www.youtube.com/watch?v=0BGmHdywuC4&t=3s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "I WANNA DRESS LIKE A PRINCESS! | Art with Sharpies | A Bunch of Every-Day Princess Outfit Designs",
+          "url": "https://www.youtube.com/watch?v=GIT7ALrR0_c"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Fairy Dragon? RANDOM CREATURE DESIGN #13",
+          "url": "https://www.youtube.com/watch?v=Z0BmNQaJrC4&t=302s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Kettle Cats DRAW WITH ME Ep 3",
+          "url": "https://www.youtube.com/watch?v=cTna_xUPcsg"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Speedy Steampunk Tea Party Drawing",
+          "url": "https://www.youtube.com/watch?v=CIUSFu0RiV4"
         }
       ]
     }
