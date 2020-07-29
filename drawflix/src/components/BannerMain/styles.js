@@ -107,7 +107,7 @@ export const WatchButton = styled.button`
   padding: 16px 24px;
   font-style: normal;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 20px;
   outline: none;
   /* border-radius: 5px; */
   text-decoration: none;
@@ -122,4 +122,10 @@ export const WatchButton = styled.button`
   @media (max-width: 800px) {
     display: block;
   }
+`;
+
+export const Link = styled.a`
+  display: block;
+  padding: 16px 24px;
+  text-decoration: none;
 `;
