@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Photoshop",
-      "cor": "#B805E5",
+      "cor": "#fd951f",
       "link_extra": {
         "text": "Aprendendo Adobe Photoshop",
         "url": "https://www.youtube.com/watch?v=Zj24cPp-AsY&list=PLfY4aYg9e-lPzQIXC_v0kb9X0YDaflYtl"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Speed Drawing - Vectors",
-      "cor": "#B805E5",
+      "cor": "#04d361",
       "link_extra": {
         "text": "Maravilhe-se com Speed Drawings",
         "url": "https://www.youtube.com/channel/UCCkdaPWbBFUh8W9P9oNFGqw"
@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Ilustração",
-      "cor": "#B805E5",
+      "cor": "#3795F5",
       "videos": [
         {
           "titulo": "How To: Introduction to Illustration with Alison Woodward",
@@ -123,7 +123,7 @@
     },
     {
       "titulo": "Sketchbook Tour",
-      "cor": "#B805E5",
+      "cor": "#FA482A",
       "link_extra": {
         "text": "Scketchbooks",
         "url": "https://www.youtube.com/results?search_query=sketchbook+tour"
@@ -153,7 +153,7 @@
     },
     {
       "titulo": "IlustradorAs",
-      "cor": "#B805E5",
+      "cor": "#3E00D6",
       "link_extra": {
         "text": "Meninas desenham"
       },
